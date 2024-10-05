@@ -1,0 +1,130 @@
+{
+    "intents": [
+      {
+        "intent": "que_voy_a_hacer",
+        "text": [
+          "¿Qué voy a hacer en la especialidad de redes?",
+          "¿Qué actividades realizaré si estudio redes?",
+          "¿En qué consistirán mis clases de redes?",
+          "¿Qué tipo de proyectos haré en la carrera de redes?",
+          "¿Qué voy a hacer en redes?",
+          "¿Qué haré si estudio esta especialidad?",
+          "¿Cuáles son las actividades en la carrera?",
+          "¿Qué tipo de trabajo tiene esta especialidad?"
+        ],
+        "responses": [
+          "En la especialidad de redes, configurarás equipos como routers y switches, programarás scripts para automatizar tareas, diseñarás redes seguras y te prepararás para certificaciones como CCNA.",
+          "Realizarás proyectos prácticos como crear redes empresariales simuladas, desarrollar aplicaciones de monitoreo y participar en competencias de ciberseguridad para poner a prueba tus habilidades.",
+          "Tus clases incluirán laboratorios prácticos de configuración de redes, sesiones de programación, diseño de infraestructuras de red y talleres de seguridad informática.",
+          "Trabajarás en proyectos como implementar una red completa para una empresa ficticia, desarrollar un sistema de detección de intrusos o crear una aplicación de gestión de red usando programación."
+        ]
+      },
+      {
+        "intent": "que_se_hace_en_redes",
+        "text": [
+          "¿Qué se hace en redes?",
+          "¿Cuál es el trabajo de alguien que estudia redes?",
+          "¿A qué se dedica un especialista en redes?",
+          "¿Qué hace un profesional de redes en su día a día?",
+          "¿Qué hacen los que estudian esto?",
+          "¿Cuál es el día a día en esta carrera?",
+          "¿Qué implica esta especialidad?",
+          "¿Cómo es trabajar en este campo?"
+        ],
+        "responses": [
+          "Un especialista en redes diseña, implementa y mantiene las infraestructuras que permiten la comunicación entre dispositivos, desde pequeñas redes locales hasta sistemas globales de internet.",
+          "El trabajo en redes incluye configurar equipos, solucionar problemas de conectividad, implementar medidas de seguridad y optimizar el rendimiento de las redes para empresas y organizaciones.",
+          "Un profesional de redes se dedica a asegurar que la información fluya de manera eficiente y segura, gestionando routers, switches, firewalls y otros dispositivos críticos para la comunicación digital.",
+          "En su día a día, un especialista en redes puede estar monitoreando el tráfico de red, actualizando configuraciones de seguridad, resolviendo problemas de conectividad o planificando expansiones de la infraestructura."
+        ]
+      },
+      {
+        "intent": "necesito_conocimiento_previo",
+        "text": [
+          "¿Necesito conocimiento previo para estudiar esta especialidad?",
+          "¿Qué conocimientos debo tener antes de estudiar redes?",
+          "¿Hay requisitos previos para esta carrera?",
+          "¿Qué base debo tener para estudiar redes?",
+          "¿Es necesario saber algo antes de comenzar?"
+        ],
+        "responses": [
+          "No es estrictamente necesario tener conocimientos previos, pero tener una base en informática y matemáticas puede ser beneficioso.",
+          "Se recomienda familiarizarse con conceptos básicos de computación y redes antes de comenzar la especialidad.",
+          "Un interés en la tecnología y la programación es útil, ya que algunas clases pueden requerir habilidades técnicas."
+        ]
+      },
+      {
+        "intent": "que_se_necesita_para_estudiar",
+        "text": [
+          "¿Qué se necesita para estudiar esta especialidad?",
+          "¿Cuáles son los requisitos para estudiar redes?",
+          "¿Qué materiales o herramientas necesito para esta carrera?",
+          "¿Qué habilidades son importantes para estudiar redes?"
+        ],
+        "responses": [
+          "Necesitarás un ordenador y acceso a internet para realizar investigaciones y prácticas.",
+          "Es útil contar con software de simulación de redes y herramientas de programación para los proyectos prácticos.",
+          "Las habilidades en resolución de problemas y pensamiento lógico son muy importantes en esta especialidad."
+        ]
+      },
+      {
+        "intent": "que_es_un_lenguaje_de_programacion",
+        "text": [
+          "¿Qué es un lenguaje de programación?",
+          "¿Para qué se utilizan los lenguajes de programación?",
+          "¿Cuál es la función de un lenguaje de programación?",
+          "¿Qué ejemplos de lenguajes de programación existen?"
+        ],
+        "responses": [
+          "Un lenguaje de programación es un conjunto de instrucciones y reglas que se utilizan para escribir programas de computadora.",
+          "Se utilizan para crear software, aplicaciones, y scripts que automatizan tareas o procesan datos.",
+          "Algunos ejemplos populares incluyen Python, Java, C++, y JavaScript."
+        ]
+      },
+      {
+        "intent": "que_se_hace_en_programacion",
+        "text": [
+          "¿Qué se hace en programación?",
+          "¿Qué actividades realiza un programador?",
+          "¿Cuál es el trabajo de alguien que programa?",
+          "¿Qué hace un profesional de programación en su día a día?"
+        ],
+        "responses": [
+          "En programación, se escriben, prueban y mantienen el código de software para diferentes aplicaciones.",
+          "Los programadores pueden trabajar en el desarrollo de aplicaciones, la creación de scripts para automatizar tareas o el diseño de sitios web.",
+          "Las actividades diarias pueden incluir depuración de código, colaboración en equipo, y diseño de nuevas funcionalidades."
+        ]
+      },
+      {
+        "intent": "como_se_le_da_soporte_a_equipos",
+        "text": [
+          "¿Cómo se le da soporte a los equipos?",
+          "¿Qué implica dar soporte técnico a equipos de red?",
+          "¿Cuál es el proceso para resolver problemas en equipos?",
+          "¿Cómo se gestionan las incidencias en equipos de red?"
+        ],
+        "responses": [
+          "Dar soporte a equipos implica diagnosticar problemas, realizar reparaciones o configuraciones, y asegurar que los dispositivos funcionen correctamente.",
+          "Se utilizan herramientas de monitoreo y diagnóstico para identificar problemas y se documentan las soluciones para referencia futura.",
+          "La gestión de incidencias incluye seguimiento de problemas, comunicación con los usuarios y asegurar que se implementen soluciones efectivas."
+        ]
+      },
+      {
+        "intent": "que_son_redes",
+        "text": [
+          "¿Qué son las redes?",
+          "¿Cuál es la definición de una red?",
+          "¿Qué tipos de redes existen?",
+          "¿Qué función cumplen las redes?",
+          "¿Por qué son importantes las redes?"
+        ],
+        "responses": [
+          "Las redes son un conjunto de dispositivos conectados que pueden comunicarse entre sí para compartir recursos e información.",
+          "Existen diferentes tipos de redes, como redes locales (LAN), redes de área amplia (WAN), y redes inalámbricas (Wi-Fi).",
+          "Las redes permiten la comunicación entre computadoras y dispositivos, facilitando el acceso a internet, el intercambio de archivos y la colaboración en tiempo real.",
+          "Son fundamentales en el mundo moderno, ya que sustentan la infraestructura de comunicación de empresas, gobiernos y hogares."
+        ]
+      }
+    ]
+  }
+  
